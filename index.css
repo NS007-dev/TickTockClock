@@ -4,14 +4,13 @@ body {
     background: black;
 }
 
-.clock{
+.clock {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    color:#17D4FE;
+    color: #17D4FE;
     font-size: 60px;
     font-family: "zen dots", cursive;
     letter-spacing: 7px;
 }
-
